@@ -1,0 +1,11 @@
+c:\users\davi\documents\visual studio 2015\Projects\Tahm Kench\Tahm Kench\bin\Debug\Tahm Kench.exe.config
+c:\users\davi\documents\visual studio 2015\Projects\Tahm Kench\Tahm Kench\bin\Debug\Tahm Kench.exe
+c:\users\davi\documents\visual studio 2015\Projects\Tahm Kench\Tahm Kench\bin\Debug\Tahm Kench.pdb
+c:\users\davi\documents\visual studio 2015\Projects\Tahm Kench\Tahm Kench\bin\Debug\LeagueSharp.Common.dll
+c:\users\davi\documents\visual studio 2015\Projects\Tahm Kench\Tahm Kench\bin\Debug\LeagueSharp.dll
+c:\users\davi\documents\visual studio 2015\Projects\Tahm Kench\Tahm Kench\bin\Debug\SharpDX.dll
+c:\users\davi\documents\visual studio 2015\Projects\Tahm Kench\Tahm Kench\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\davi\documents\visual studio 2015\Projects\Tahm Kench\Tahm Kench\bin\Debug\clipper_library.dll
+c:\users\davi\documents\visual studio 2015\Projects\Tahm Kench\Tahm Kench\bin\Debug\LeagueSharp.Sandbox.dll
+c:\users\davi\documents\visual studio 2015\Projects\Tahm Kench\Tahm Kench\obj\Debug\Tahm Kench.exe
+c:\users\davi\documents\visual studio 2015\Projects\Tahm Kench\Tahm Kench\obj\Debug\Tahm Kench.pdb
