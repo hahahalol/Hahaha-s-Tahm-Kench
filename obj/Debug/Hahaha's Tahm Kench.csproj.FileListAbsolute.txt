@@ -1,0 +1,12 @@
+c:\users\davi\documents\visual studio 2015\Projects\Hahaha's Tahm Kench\Hahaha's Tahm Kench\bin\Debug\Hahaha's Tahm Kench.exe.config
+c:\users\davi\documents\visual studio 2015\Projects\Hahaha's Tahm Kench\Hahaha's Tahm Kench\bin\Debug\Hahaha's Tahm Kench.exe
+c:\users\davi\documents\visual studio 2015\Projects\Hahaha's Tahm Kench\Hahaha's Tahm Kench\bin\Debug\Hahaha's Tahm Kench.pdb
+c:\users\davi\documents\visual studio 2015\Projects\Hahaha's Tahm Kench\Hahaha's Tahm Kench\bin\Debug\LeagueSharp.Common.dll
+c:\users\davi\documents\visual studio 2015\Projects\Hahaha's Tahm Kench\Hahaha's Tahm Kench\bin\Debug\LeagueSharp.dll
+c:\users\davi\documents\visual studio 2015\Projects\Hahaha's Tahm Kench\Hahaha's Tahm Kench\bin\Debug\SharpDX.dll
+c:\users\davi\documents\visual studio 2015\Projects\Hahaha's Tahm Kench\Hahaha's Tahm Kench\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\davi\documents\visual studio 2015\Projects\Hahaha's Tahm Kench\Hahaha's Tahm Kench\bin\Debug\clipper_library.dll
+c:\users\davi\documents\visual studio 2015\Projects\Hahaha's Tahm Kench\Hahaha's Tahm Kench\bin\Debug\LeagueSharp.Sandbox.dll
+c:\users\davi\documents\visual studio 2015\Projects\Hahaha's Tahm Kench\Hahaha's Tahm Kench\obj\Debug\Hahaha's Tahm Kench.exe
+c:\users\davi\documents\visual studio 2015\Projects\Hahaha's Tahm Kench\Hahaha's Tahm Kench\obj\Debug\Hahaha's Tahm Kench.pdb
+c:\users\davi\documents\visual studio 2015\Projects\Hahaha's Tahm Kench\Hahaha's Tahm Kench\obj\Debug\Hahaha's Tahm Kench.csprojResolveAssemblyReference.cache
